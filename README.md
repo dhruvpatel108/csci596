@@ -3,7 +3,7 @@ A repo for the final project of [Scientific Computing and Visualization (CS596)]
 
 ## Generative Adversarial Networks
 [](https://github.com/dhruvpatel108/cs596/blob/master/figure/gan.png)
-Generative Adversarial Network (GAN) is 
+https://github.com/dhruvpatel108/csci596/blob/main/images/gan.png
 
 
 ## Objective
