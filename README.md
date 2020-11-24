@@ -12,6 +12,8 @@ challenges:
 1. sampling from high dimensional posterior distributions and 
 2. representing complex prior distributions that are difficult to characterize mathematically. 
 
+
+![](https://github.com/dhruvpatel108/csci596/blob/main/images/thermal_imaging.png)
 It has been shown that use of GAN as a prior in Bayesian update can be effective in tackling above two challenges.
 
 We demonstrate the efficacy of this approach by inferring and 
