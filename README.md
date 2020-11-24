@@ -1,9 +1,6 @@
 # csci596: Quantifying Uncertainty using Deep Generative Modeling.
 A repo for the final project of [Scientific Computing and Visualization (CS596)](http://cacs.usc.edu/education/cs596.html) course.
 
-## Generative Adversarial Networks
-![](https://github.com/dhruvpatel108/csci596/blob/main/images/gan.png)
-
 
 ## Objective
 Bayesian inference is a powerful method used extensively to quantify the uncertainty in an inferred field given the measurement of a related field
@@ -27,3 +24,11 @@ optimal sensor placement location:
 CelebA             |  MNIST
 :-------------------------:|:-------------------------:
 ![](https://github.com/dhruvpatel108/GANPriors/blob/master/images/celeba_oed.gif)  |  ![](https://github.com/dhruvpatel108/GANPriors/blob/master/images/mnist_oed.gif)
+
+## Generative Adversarial Networks
+![](https://github.com/dhruvpatel108/csci596/blob/main/images/gan.png)
+
+We would like to scale up the GAN priors for Bayesian inference along two directions:
+1. Scaling up the posterior inference by parallalizing MCMC [A general construction for parallelizing Metropolis−Hastings algorithms
+](https://www.pnas.org/content/111/49/17408).
+2. Scaling up the process of learning prior distribution by [training GAN in parallel](https://www.osti.gov/servlets/purl/1568001).
