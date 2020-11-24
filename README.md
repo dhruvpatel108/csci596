@@ -11,7 +11,7 @@ challenges:
 
 
 ![](https://github.com/dhruvpatel108/csci596/blob/main/images/thermal_imaging.png)
-It has been shown that use of GAN as a prior in Bayesian update can be effective in tackling above two challenges.
+It has been shown in our previous work that the use of [GAN as a prior in Bayesian update](https://arxiv.org/abs/2003.12597) can be effective in tackling above two challenges.
 
 We demonstrate the efficacy of this approach by inferring and 
 quantifying uncertainty in inference problems arising in computer vision and physics-based applications. 
