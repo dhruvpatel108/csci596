@@ -2,6 +2,7 @@
 A repo for the final project of [Scientific Computing and Visualization (CS596)](http://cacs.usc.edu/education/cs596.html) course.
 
 ## Generative Adversarial Networks
+[](https://github.com/dhruvpatel108/cs596/blob/master/figure/gan.png)
 Generative Adversarial Network (GAN) is 
 
 
